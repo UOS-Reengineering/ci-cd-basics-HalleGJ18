@@ -2,6 +2,6 @@ package example.project;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello Reengineering!");
+        System.out.println("Hello Software Reengineering!");
     }
 }
